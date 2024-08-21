@@ -1,1 +1,1 @@
-a
+;bind clickgui
